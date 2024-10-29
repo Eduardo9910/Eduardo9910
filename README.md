@@ -37,7 +37,7 @@ As a self-taught and proactive Information Technology Engineer, I'm constantly l
 
 ## Check out my Social Media
 
-<a href="https://www.linkedin.com/in/eduardohg15/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/eduardohg15/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
