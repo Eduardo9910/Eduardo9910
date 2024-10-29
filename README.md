@@ -52,6 +52,6 @@ As a self-taught and proactive Information Technology Engineer, I'm constantly l
 -------------
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Eduardo9910/Eduardo9910/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
