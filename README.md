@@ -49,3 +49,9 @@ As a self-taught and proactive Information Technology Engineer, I'm constantly l
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo9910&theme=material-palenight)](https://github.com/Eduardo9910)
 </div>
 
+-------------
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Eduardo9910/Eduardo9910/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
