@@ -44,6 +44,7 @@ As a self-taught and proactive Information Technology Engineer, I'm constantly l
 
 <h2>Github stats:</h2> 
 
+<div>
 [![](https://github-readme-stats.vercel.app/api?username=Eduardo9910&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Eduardo9910)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo9910&theme=material-palenight)](https://github.com/Eduardo9910)
 </div>
