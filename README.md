@@ -55,10 +55,3 @@ As a self-taught and proactive Information Technology Engineer, I'm constantly l
 </a>
 </span>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Eduardo9910&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Eduardo9910)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo9910&theme=material-palenight)](https://github.com/Eduardo9910)
-</div>
-
